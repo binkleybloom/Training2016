@@ -5,7 +5,7 @@ SU Campus Training Session, 2016.
 http://github.com/timsutton/mcxToProfile
 http://www.barebones.com/products/textwrangler/
 
-# man pages
+## man pages
 [networksetup](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/networksetup.8.html)
 
 [pkgbuild](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/pkgbuild.1.html)
