@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDisplayName</key>
+            <string>Desktop</string>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadIdentifier</key>
+            <string>edu.syr.mostt.MichaelKnight.payload</string>
+            <key>PayloadType</key>
+            <string>com.apple.desktop</string>
+            <key>PayloadUUID</key>
+            <string>97C16056-52BD-426A-BA81-9406518913C8</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>locked</key>
+            <true/>
+            <key>override-picture-path</key>
+            <string>/Users/Shared/desktop_pic.jpg</string>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>SU - custom desktop picture settings</string>
+    <key>PayloadDisplayName</key>
+    <string>Desktop Picture</string>
+    <key>PayloadIdentifier</key>
+    <string>edu.syr.mostt.MichaelKnight</string>
+    <key>PayloadOrganization</key>
+    <string>Syracuse University</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>332CA5B0-38B2-4508-A600-1AAD84CE382C</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>

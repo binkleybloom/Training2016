@@ -1,0 +1,6 @@
+#!/bin/bash
+
+/usr/bin/profiles -I -F /tmp/desktoppicture.mobileconfig
+rm /tmp/desktoppicture.mobileconfig
+
+exit 0
