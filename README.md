@@ -2,8 +2,8 @@
 SU Campus Training Session, 2016. 
 
 ## third-party tools:
-http://github.com/timsutton/mcxToProfile
-http://www.barebones.com/products/textwrangler/
+Tim Sutton's [mcxToProfile](http://github.com/timsutton/mcxToProfile) python script.
+Bare Bones [TextWrangler](http://www.barebones.com/products/textwrangler/)
 
 ## man pages
 [networksetup](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/networksetup.8.html)
