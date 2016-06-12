@@ -1,5 +1,7 @@
 # More fun than a barrel of...
-SU Campus Training Session, 2016. 
+SU Campus Training Session, 2016.
+
+Download the slides, notes and examples [here](https://github.com/binkleybloom/Training2016/files/310932/Training2016.zip). 
 
 ## third-party tools:
 Tim Sutton's [mcxToProfile](http://github.com/timsutton/mcxToProfile) python script.
