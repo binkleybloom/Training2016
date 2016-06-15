@@ -6,6 +6,8 @@ Download the slides, notes and examples [here](https://github.com/binkleybloom/T
 ## third-party tools:
 Tim Sutton's [mcxToProfile](http://github.com/timsutton/mcxToProfile) python script.
 
+Kyle Crawford's [dockutil](https://github.com/kcrawford/dockutil)
+
 Bare Bones [TextWrangler](http://www.barebones.com/products/textwrangler/)
 
 ## man pages
